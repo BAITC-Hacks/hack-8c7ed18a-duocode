@@ -1,0 +1,6 @@
+{
+  "name": "AI Tutor Pro",
+  "description": "Интеллектуальная адаптивная платформа обучения школьников со встроенным ИИ-репетитором Newton, тренажером задач и трехъязычной локализацией (Қазақ тілі, Русский, English).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
