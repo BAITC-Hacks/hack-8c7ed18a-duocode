@@ -1,0 +1,114 @@
+{
+  "type": "object",
+  "properties": {
+    "card": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "topic": {
+          "type": "string"
+        },
+        "context": {
+          "type": "string"
+        },
+        "need": {
+          "type": "string"
+        },
+        "data": {
+          "type": "string"
+        },
+        "result": {
+          "type": "string"
+        },
+        "success": {
+          "type": "string"
+        },
+        "constraints": {
+          "type": "string"
+        },
+        "users": {
+          "type": "string"
+        },
+        "contact": {
+          "type": "string"
+        },
+        "interaction": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "topic",
+        "context",
+        "need",
+        "data",
+        "result",
+        "success",
+        "constraints",
+        "users",
+        "contact",
+        "interaction"
+      ],
+      "additionalProperties": false
+    },
+    "evidence": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "topic": {
+          "type": "string"
+        },
+        "context": {
+          "type": "string"
+        },
+        "need": {
+          "type": "string"
+        },
+        "data": {
+          "type": "string"
+        },
+        "result": {
+          "type": "string"
+        },
+        "success": {
+          "type": "string"
+        },
+        "constraints": {
+          "type": "string"
+        },
+        "users": {
+          "type": "string"
+        },
+        "contact": {
+          "type": "string"
+        },
+        "interaction": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "topic",
+        "context",
+        "need",
+        "data",
+        "result",
+        "success",
+        "constraints",
+        "users",
+        "contact",
+        "interaction"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "card",
+    "evidence"
+  ],
+  "additionalProperties": false
+}

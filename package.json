@@ -1,0 +1,16 @@
+{
+  "name": "briefly-hackathon",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Turn business needs into confirmed opportunities for student teams.",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.mjs",
+    "dev": "node --env-file-if-exists=.env --watch server.mjs",
+    "build": "node scripts/build.mjs",
+    "lint": "node scripts/check.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:e2e": "node tests/browser.mjs"
+  }
+}

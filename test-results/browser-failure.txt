@@ -1,0 +1,124 @@
+locator.fill: Error: strict mode violation: getByLabel('Completed milestone') resolved to 2 elements:
+    1) <input value="" type="text" required="" maxlength="500" name="milestone" placeholder="For example: Searchable prototype demonstrated"/> aka getByRole('textbox', { name: 'Completed milestone' })
+    2) <input required="" type="checkbox" name="attested"/> aka getByRole('checkbox', { name: 'I personally verified this' })
+
+Call log:
+[2m  - waiting for getByLabel('Completed milestone')[22m
+
+    at C:\Users\Admin\Desktop\hackathon-project\tests\browser.mjs:107:48
+
+Skip to content
+briefly
+®
+THE OPPORTUNITY WORKSPACE
+My workspace
+Task catalog
+6
+Team profiles
+Demo guide
+✦
+Better briefs.
+Real possibilities.
+
+A little clarity opens up a lot of opportunity.
+
+How Briefly works
+Hackathon demo
+v1.0
+Workspace / Task details
+Demo perspective
+Business
+Team
+B
+← My workspace
+RETAIL
+A clearer way to track shop orders
+
+Reduce lost order updates and help shop staff see the current status of each order.
+
+Edit & improve
+✦ Priority
+Published · Catalog rank #2
+Confirmed Sep 23
+The business brief
+Human confirmed
+Context
+Shop staff currently copy customer orders from paper into a spreadsheet and lose order updates.
+Business need
+Reduce lost order updates and help shop staff see the current status of each order.
+Data and materials
+A synthetic CSV of 50 shop orders and a sample order form are available from the business contact.
+Expected result
+Deliver a working order dashboard with order status and a searchable order list.
+Measurable success criteria
+Find the status of an order in under 10 seconds in 5 test cases.
+Constraints
+Build a browser prototype in five hours using synthetic data only.
+Target users
+Shop staff who record orders and check delivery status.
+Business contact
+Demo shop liaison via orders@shop.example
+Consultation and feedback
+A 10-minute kickoff consultation and a final demo review with written feedback.
+Compare proposals 1
+
+Accept one, several, or none. Each decision is yours.
+
+Accepting a proposal does not affect other proposals or award progress points.
+OS
+Orbit Studio
+UX research · Frontend development · Sep 23
+Accepted
+Solution idea
+Build a searchable order dashboard with clear status labels.
+Implementation plan
+Review the synthetic order data, implement status search, and test with five sample orders.
+Delivery: 4 hours
+View prototype 
+
+Accepted manually by the business · Sep 23
+
+✓ Manually accepted
+Reject proposal
+Confirm an actual milestone · +10 demo points
+Completed milestone
+*
+Evidence of actual progress reviewed
+*
+I personally verified this completed milestone.
+Confirm progress & award points
+
+10 points is a configurable demo assumption, not an official rule. A milestone can earn points once per team and task.
+
+Factual sources & confirmation history
+OFFICIAL READINESS
+100
+out of 100
+✦ Priority
+
+Based on confirmed information
+
+Fully ready for work and highlighted in the catalog.
+Every point explained
+Context and business need
+20 / 20
+Data and materials
+20 / 20
+Expected result
+15 / 15
+Success criteria
+15 / 15
+Constraints
+10 / 10
+Users
+10 / 10
+Business communication
+10 / 10
+
+Title and topic add no points. Unconfirmed edits never change this official score.
+
+All the details are in place
+✓ No missing fields. All seven scoring categories are complete.
+Made for clearer collaboration.
+All seeded organizations, contacts and teams are synthetic. Reset demo
+Proposal accepted by you. Other proposals are unchanged.

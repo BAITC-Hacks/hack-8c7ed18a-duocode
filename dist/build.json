@@ -1,0 +1,13 @@
+{
+  "builtAt": "2026-09-23T11:54:50.038Z",
+  "files": {
+    "ai.js": "6bc117818c8fbc2dbcb1a9437e2ab4f025c8d9412c5ccb73cd8773f41e379e50",
+    "app.js": "08244812ad5f3c3b858becaa32973b87e1195b46cecc8fecd185f311f3f18305",
+    "domain.js": "e9103f7b8d2de6d52d813035d07264b6572e44122fb249b294eeb1ecc8cf90f8",
+    "favicon.svg": "15ebf3ff9ae793efd914c05031125a8381a8c7e60cfbf3f3b4a7af39866aa531",
+    "index.html": "0348c498532473b299f8ab916792c960c2b1b285385b49cbf572c5948f570d68",
+    "seed.js": "349befc5fae82969913d343c2c87988dd9d7e835966364a9404feda712d7f702",
+    "storage.js": "2c0a02e5e71ae64c3a6b9cf6bd23757109d1aeae50556c2572129cf5c7dae7b0",
+    "styles.css": "bad884ecc227b8abb5ffabd9544ed0faab6ba4b22c18433cdf42bb503019eb0e"
+  }
+}

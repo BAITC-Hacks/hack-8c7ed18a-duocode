@@ -1,0 +1,24 @@
+{
+  "passed": 17,
+  "durationSeconds": 7,
+  "checks": [
+    "Production application loads with seeded workspace and working navigation",
+    "Weak-description error is clear and preserves entered data",
+    "Analysis loading, relevant questions, exact-source generation and empty unsupported facts",
+    "Manual attestation gate, initial 45/100 Working rating, seven categories and improvement guidance",
+    "Saved unconfirmed edits preserve official score and block publication; confirmed improvements reach 100 and publish",
+    "Complete catalog, both filters, sorting, proposal validation, data retention and successful submission",
+    "Manual acceptance awards zero points; actual attested milestone awards 10 and appears on team profile",
+    "Publication, manual decision and progress survive a real page reload",
+    "Low-rated published task remains visible and accepts a complete team proposal",
+    "Business compares proposals and chooses one, multiple or zero teams with independent persisted decisions",
+    "Filtered no-results state is meaningful",
+    "Malformed browser API response falls back locally without inventing facts",
+    "In-app five-minute guide and prepared demo entry point work",
+    "No uncaught JavaScript errors in the complete live journey",
+    "Corrupt storage preserved and explicit reset recovers safely",
+    "Persistence failure keeps form inputs and does not claim success",
+    "Empty catalog and empty team-history states render correctly"
+  ],
+  "pageErrors": []
+}
